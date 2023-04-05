@@ -1,6 +1,6 @@
 # Alfred Youtube Downloader
 
-This is a basic [Alfred Workflow](https://www.alfredapp.com/workflows/) that uses [youtube-dl](https://github.com/ytdl-org/youtube-dl) to download your desired YouTube video in the best quality available and saves it to your downloads folder.
+This is a basic [Alfred Workflow](https://www.alfredapp.com/workflows/) that uses [yt-dlp](https://github.com/yt-dlp/yt-dlp) (This assumes you have downloaded it via `brew`) to download your desired YouTube video in the best quality available and saves it to your downloads folder.
 
 **Prefix**: `ytdl`
 
@@ -8,7 +8,7 @@ This is a basic [Alfred Workflow](https://www.alfredapp.com/workflows/) that use
 
 - [Alfred](https://www.alfredapp.com/)
 - [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 
 ### Preview:
 
